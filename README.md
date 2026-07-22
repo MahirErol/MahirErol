@@ -12,21 +12,13 @@
 <tr>
 <td width="60%" valign="top">
 
-##  Hakkımda
+##  About Me
 
- Bilgisayar Mühendisliği Mezunu
- Yapay Zeka & Bilgisayarlı Görü tutkunu
- Derin Öğrenme & Makine Öğrenmesi projeleri geliştiriyorum
- Python · Java · SQL
- Sürekli yeni teknolojiler öğreniyorum
+Junior Backend Developer with a solid foundation in Computer Engineering, specializing in building robust, scalable backend systems with Java and Spring Boot. Experienced in designing RESTful APIs, database architecture (PostgreSQL), and full-stack application logic — from authentication flows to business rule implementation. Also skilled in Artificial Intelligence and Computer Vision, having developed real-time detection systems and algorithm-driven applications (graph search, optimization). Combines strong backend engineering fundamentals with an analytical, AI-informed approach to problem-solving, and a continuous drive to learn and build practical, real-world solutions.
 
 <br/>
 
-### 📊 Şu Anda
--  Yapay zeka destekli projeler üzerinde çalışıyorum
--  Makine öğrenmesi ve veri bilimi konularında derinleşiyorum
--  Python, Java ve AI/ML hakkında sorularınızı yanıtlamaktan mutluluk duyarım
--  Eğlenceli gerçek: verimi kahve ile ölçüyorum ☕
+
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -66,7 +58,7 @@ Yapay zeka eğitimi için otomatik sentetik veri seti üretimi.
 <tr>
 <td width="50%">
 
-### 🎬 Movie Archive NoSQL
+###  Movie Archive NoSQL
 NoSQL veritabanı teknolojileriyle geliştirilmiş film arşiv sistemi.
 <br/>
 ![MongoDB](https://img.shields.io/badge/-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -133,30 +125,6 @@ React + Spring Boot ile geliştirilmiş tam kapsamlı spor salonu yönetim siste
 
 <br/>
 
-##  GitHub İstatistiklerim
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahirErol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirErol&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahirErol&theme=tokyonight&hide_border=true" alt="streak stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahirErol&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-
-
-<br/>
-
-
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -164,7 +132,7 @@ React + Spring Boot ile geliştirilmiş tam kapsamlı spor salonu yönetim siste
 
 <br/>
 
-## 📫 Bana Ulaşın
+##  Bana Ulaşın
 
 <div align="center">
 
