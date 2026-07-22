@@ -79,12 +79,4 @@ Also skilled in Artificial Intelligence and Computer Vision, having developed re
 
 <br/>
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-###  Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=MahirErol&label=Profile%20Views&color=00c896&style=for-the-badge" alt="profile views" />
-
-</div>
