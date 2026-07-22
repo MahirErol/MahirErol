@@ -31,68 +31,6 @@ Junior Backend Developer with a solid foundation in Computer Engineering, specia
 
 <br/>
 
-##  Öne Çıkan Projeler
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-###  Fall Detection
-Bilgisayarlı Görü kullanarak yapay zeka destekli insan düşme algılama sistemi.
-<br/>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-</td>
-<td width="50%">
-
-###  Synthetic Dataset Generator
-Yapay zeka eğitimi için otomatik sentetik veri seti üretimi.
-<br/>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-###  Movie Archive NoSQL
-NoSQL veritabanı teknolojileriyle geliştirilmiş film arşiv sistemi.
-<br/>
-![MongoDB](https://img.shields.io/badge/-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🐄 Animal Feed Optimizer
-Hayvan yemi yönetimi için optimizasyon projesi.
-<br/>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-###  Metro Simülasyonu
-BFS ve Dijkstra algoritmalarıyla şehir metro ağında en optimal rota bulma.
-<br/>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%">
-
-###  Fitness Otomasyonu
-React + Spring Boot ile geliştirilmiş tam kapsamlı spor salonu yönetim sistemi.
-<br/>
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 [![Tüm Repolarımı Görüntüle](https://img.shields.io/badge/Tüm_Repolarımı_Görüntüle-00C896?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahirErol?tab=repositories)
 
