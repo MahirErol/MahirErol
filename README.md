@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mahir+%F0%9F%91%8B;Computer+Engineer;AI+%26+Computer+Vision+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=650&lines=Hi I'm+Mahir+%F0%9F%91%8B;Computer+Engineer;Backend Developer ;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -83,7 +83,7 @@ Also skilled in Artificial Intelligence and Computer Vision, having developed re
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=MahirErol&label=Profile%20Views&color=00c896&style=for-the-badge" alt="profile views" />
 
