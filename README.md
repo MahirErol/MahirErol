@@ -12,21 +12,21 @@
 <tr>
 <td width="60%" valign="top">
 
-## 👨‍💻 Hakkımda
+##  Hakkımda
 
-🎓 Bilgisayar Mühendisliği Mezunu
-🤖 Yapay Zeka & Bilgisayarlı Görü tutkunu
-🧠 Derin Öğrenme & Makine Öğrenmesi projeleri geliştiriyorum
-🐍 Python · Java · SQL
-🚀 Sürekli yeni teknolojiler öğreniyorum
+ Bilgisayar Mühendisliği Mezunu
+ Yapay Zeka & Bilgisayarlı Görü tutkunu
+ Derin Öğrenme & Makine Öğrenmesi projeleri geliştiriyorum
+ Python · Java · SQL
+ Sürekli yeni teknolojiler öğreniyorum
 
 <br/>
 
 ### 📊 Şu Anda
-- 🔭 Yapay zeka destekli projeler üzerinde çalışıyorum
-- 🌱 Makine öğrenmesi ve veri bilimi konularında derinleşiyorum
-- 💬 Python, Java ve AI/ML hakkında sorularınızı yanıtlamaktan mutluluk duyarım
-- ⚡ Eğlenceli gerçek: verimi kahve ile ölçüyorum ☕
+-  Yapay zeka destekli projeler üzerinde çalışıyorum
+-  Makine öğrenmesi ve veri bilimi konularında derinleşiyorum
+-  Python, Java ve AI/ML hakkında sorularınızı yanıtlamaktan mutluluk duyarım
+-  Eğlenceli gerçek: verimi kahve ile ölçüyorum ☕
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -39,7 +39,7 @@
 
 <br/>
 
-## 🚀 Öne Çıkan Projeler
+##  Öne Çıkan Projeler
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 <tr>
 <td width="50%">
 
-### 🧠 Fall Detection
+###  Fall Detection
 Bilgisayarlı Görü kullanarak yapay zeka destekli insan düşme algılama sistemi.
 <br/>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,7 +56,7 @@ Bilgisayarlı Görü kullanarak yapay zeka destekli insan düşme algılama sist
 </td>
 <td width="50%">
 
-### 📦 Synthetic Dataset Generator
+###  Synthetic Dataset Generator
 Yapay zeka eğitimi için otomatik sentetik veri seti üretimi.
 <br/>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -84,7 +84,7 @@ Hayvan yemi yönetimi için optimizasyon projesi.
 <tr>
 <td width="50%">
 
-### 🚇 Metro Simülasyonu
+###  Metro Simülasyonu
 BFS ve Dijkstra algoritmalarıyla şehir metro ağında en optimal rota bulma.
 <br/>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -92,7 +92,7 @@ BFS ve Dijkstra algoritmalarıyla şehir metro ağında en optimal rota bulma.
 </td>
 <td width="50%">
 
-### 🏋️ Fitness Otomasyonu
+###  Fitness Otomasyonu
 React + Spring Boot ile geliştirilmiş tam kapsamlı spor salonu yönetim sistemi.
 <br/>
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -108,7 +108,7 @@ React + Spring Boot ile geliştirilmiş tam kapsamlı spor salonu yönetim siste
 
 <br/>
 
-## 💻 Teknoloji Yığınım
+##  Teknoloji Yığınım
 
 <div align="center">
 
@@ -133,7 +133,7 @@ React + Spring Boot ile geliştirilmiş tam kapsamlı spor salonu yönetim siste
 
 <br/>
 
-## 📈 GitHub İstatistiklerim
+##  GitHub İstatistiklerim
 
 <div align="center">
 
@@ -152,15 +152,11 @@ React + Spring Boot ile geliştirilmiş tam kapsamlı spor salonu yönetim siste
 
 <br/>
 
-## 🏆 GitHub Trophy
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MahirErol&theme=tokyonight&row=1&column=7&margin-w=8"/>
-</div>
 
 <br/>
 
-## 🐍 Katkı Yılanı
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -173,7 +169,7 @@ React + Spring Boot ile geliştirilmiş tam kapsamlı spor salonu yönetim siste
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirerol13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahir-erol-349ba231b/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahirErol)
 
 </div>
